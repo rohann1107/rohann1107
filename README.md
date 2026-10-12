@@ -5,7 +5,7 @@
 
 I'm a passionate Full-stack software developer with a strong interest in MERN and JAVA full stack development. 
 
-**Want to know more about me 👉 [Personal Portfolio](https://rohans-bio.netlify.app)**
+
 
 - 🔭 I’m currently working on **React.js** projects.  
 - 🌱 I’m currently working **Java Backend Devlopment**.  
