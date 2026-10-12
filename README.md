@@ -3,12 +3,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rohantandale1107&color=brightgreen)
 ## About Me
 
-I'm a passionate Full-stack software developer with a strong interest in MERN full stack development. 
+I'm a passionate Full-stack software developer with a strong interest in MERN and JAVA full stack development. 
 
 **Want to know more about me 👉 [Personal Portfolio](https://rohans-bio.netlify.app)**
 
 - 🔭 I’m currently working on **React.js** projects.  
-- 🌱 I’m currently learning **Backend Devlopment**.  
+- 🌱 I’m currently working **Java Backend Devlopment**.  
 - 👯 I’m looking to collaborate on **Innovative Projects** & **Startups** 
 - 💬 Ask me about **DSA**, or **Mern**.  
 - 📫 How to reach me: **ranchoo.work@gmail.com**
